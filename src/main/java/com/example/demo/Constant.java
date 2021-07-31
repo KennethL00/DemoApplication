@@ -25,9 +25,9 @@ public class Constant {
 	public static final String command_4 = "4 - Change the Owner of User to find \r\n";
 	public static final String command_0 = "0 - Exit the Application \r\n";
 	
-	public static final String degree_Cel = " \u2103";
-	public static final String degree_Fah = " \u2109";
-	public static final String degree_Kel = " \u212A";
+	public static final String degree_Cel = " C";
+	public static final String degree_Fah = " F";
+	public static final String degree_Kel = " K";
 	
 	public static final String label_ML = "ml";
 	public static final String label_L = "l";
